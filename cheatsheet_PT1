@@ -1,0 +1,44 @@
+ex01: 
+    git colone
+    compilation
+    machine epsilon
+    simpson: 1d function, fixed types
+ex02:
+    simpson: functionptr
+    Formatted output
+ex03:
+    CMake simpson
+    Machine epsilon – revisited
+    Modern formatting with C++20
+ex04:
+    Operator overloading and function templates
+    simpson func obj
+ex05:
+    multidim simpson
+    simpson typetraits -----------------------------
+ex06:
+    except
+    CMake test Penna
+    random, timer
+ex07:
+    iterators
+    benchmark
+    Penna finish
+ex08:
+    Inheritance Quiz -------------------
+    benchmark simpson
+    penna fishing
+ex09:
+    caches
+    Penna vector
+ex10:
+    Matrix Matrix multiplication
+ex11:
+    LAPACK 
+    emplate Meta-Programming 
+ex12:
+    Python1
+ex13:
+    Venv and Package Management in Python
+    Linear algebra with Python
+    Matplotlib
